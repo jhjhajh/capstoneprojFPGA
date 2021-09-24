@@ -22,19 +22,20 @@ void mlp_nn(hls::stream<AXIS_wLAST>& S_AXIS, hls::stream<AXIS_wLAST>& M_AXIS) {
 	float bias_3[LAYER4_I];
 	float bias_4[LAYER4_I];
 	float bias_5[LAYER5_I];
+	*/
 	float buffer_0[LAYER0_O];
 	float buffer_1[LAYER1_O];
 	float buffer_2[LAYER2_O];
 	float buffer_3[LAYER3_O];
 	float buffer_4[LAYER4_O];
 	float buffer_5[LAYER5_O];
-*/
+
 	int flag = 0;
 
 	dot<float, LAYER0_I, 0> dot_1;
 	dot<float, LAYER0_O, 0> dot_2;
 	while (true) {
-		AXI_L in, out;
+		AXIS_wLAST in, out;
 		if (flag == 0) {
 			S_AXIS >> in;
 			if (in.data == 0) {

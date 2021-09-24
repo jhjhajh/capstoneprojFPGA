@@ -1,0 +1,286 @@
+INFO-FLOW: Workspace /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1 opened at Fri Sep 24 22:20:41 +08 2021
+Execute     ap_set_clock -name default -period 10 -default=false 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+Execute     ap_set_clock -name default -uncertainty 0 
+INFO: [SYN 201-201] Setting up clock 'default' with an uncertainty of 0ns.
+Execute     import_lib /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/zynquplus/zynquplus 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/xilinx_interface.hlp 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/maxi.hlp 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/saxilite.hlp 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/DSP48/dsp48.hlp 
+Execute     source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/common/xilinx.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/plb46.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/axi4.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/nativeAXI4.gen 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/saxilite.gen 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/maxi.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/scripts/xilinxcoregen.gen 
+Command       ap_source done; 0.11 sec.
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/XilEDKCoreGen.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/dds_compiler.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/util.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/xfft.gen 
+Command       ap_source done; 0.81 sec.
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/xfir.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/DSP48/dsp48.gen 
+Command     ap_source done; 1.21 sec.
+Execute     import_lib /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/zynquplus/zynquplus_fpv7 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/xilinx_interface.hlp 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/maxi.hlp 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/saxilite.hlp 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/DSP48/dsp48.hlp 
+Execute     source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/common/xilinx.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/plb46.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/axi4.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/nativeAXI4.gen 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/saxilite.gen 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/maxi.gen 
+Command       ap_source done; 0.12 sec.
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/scripts/xilinxcoregen.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/XilEDKCoreGen.gen 
+Command       ap_source done; 0.12 sec.
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/dds_compiler.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/util.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/xfft.gen 
+Command       ap_source done; 0.69 sec.
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/xfir.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/DSP48/dsp48.gen 
+Command     ap_source done; 1.04 sec.
+Execute     import_lib /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/zynquplus/zynquplus 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/xilinx_interface.hlp 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/maxi.hlp 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/saxilite.hlp 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/DSP48/dsp48.hlp 
+Execute     source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/common/xilinx.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/plb46.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/axi4.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/nativeAXI4.gen 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/saxilite.gen 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/maxi.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/scripts/xilinxcoregen.gen 
+Command       ap_source done; 0.11 sec.
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/XilEDKCoreGen.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/dds_compiler.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/util.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/xfft.gen 
+Command       ap_source done; 0.26 sec.
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/xfir.gen 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/DSP48/dsp48.gen 
+Command     ap_source done; 0.54 sec.
+Execute     set_part xczu3eg-sbva484-1-i 
+INFO-FLOW: DBG:set_part: XILINX_VIVADO=/tools/Xilinx/Vivado/2020.2
+INFO-FLOW: DBG:set_part: RDI_DATADIR=/tools/Xilinx/Vivado/2020.2/data:/tools/Xilinx/Vitis_HLS/2020.2/data
+Execute       ap_part_info -name xczu3eg-sbva484-1-i -data single -quiet 
+DBG:HLSDevice: Trying to load device library: /tools/Xilinx/Vitis_HLS/2020.2/lib/lnx64.o/librdi_hlsvwrap.so
+DBG:HLSDevice: first parts/arch.xml in RDI_DATADIR: /tools/Xilinx/Vivado/2020.2/data/parts/arch.xml
+Command       ap_part_info done; 24.72 sec.
+Execute       ap_part_info -name xczu3eg-sbva484-1-i -data info 
+Command       ap_part_info done; 0.46 sec.
+Execute       add_library xilinx/zynquplus/zynquplus:xczu3eg:-sbva484:-1-i 
+Execute         get_default_platform 
+Execute         open_platform DefaultPlatform 
+Execute         ap_part_info -data single -name xczu3eg-sbva484-1-i 
+Execute         ap_part_info -name xczu3eg-sbva484-1-i -data resources 
+Execute         config_chip_info -resource {SLICE 8820} {LUT 70560} {FF 141120} {DSP 360} {BRAM 432} {URAM 0} 
+Execute         ap_part_info -name xczu3eg-sbva484-1-i -data info 
+Command         ap_part_info done; 0.38 sec.
+Execute         config_chip_info -speed slow 
+Execute         ap_part_info -name xczu3eg-sbva484-1-i -data info 
+Command         ap_part_info done; 0.48 sec.
+Execute         config_library_info -library zynquplus_slow 
+Execute         config_library_info -family zynquplus 
+Execute         config_library_info -part xczu3eg:-sbva484:-1-i 
+Execute         import_lib /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/zynquplus/zynquplus 
+Execute           source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/xilinx_interface.hlp 
+Execute             source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/maxi.hlp 
+Execute             source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/saxilite.hlp 
+Execute           source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/DSP48/dsp48.hlp 
+Execute           source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/DSP48/zynquplus_dsp48e2.hlp 
+Command         import_lib done; 0.79 sec.
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/common/xilinx.gen 
+Execute           source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/plb46.gen 
+Execute           source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/axi4.gen 
+Execute           source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/nativeAXI4.gen 
+Execute             source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/saxilite.gen 
+Execute             source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/maxi.gen 
+Execute           source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/scripts/xilinxcoregen.gen 
+Command           ap_source done; 0.17 sec.
+Execute           source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/XilEDKCoreGen.gen 
+Execute           source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/dds_compiler.gen 
+Execute           source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/util.gen 
+Execute           source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/xfft.gen 
+Command           ap_source done; 0.95 sec.
+Execute           source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/xfir.gen 
+Execute           source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/DSP48/dsp48.gen 
+Command         ap_source done; 1.5 sec.
+Command       add_library done; 3.37 sec.
+INFO: [HLS 200-10] Setting target device to 'xczu3eg-sbva484-1-i'
+Execute       ap_part_info -name xczu3eg-sbva484-1-i -data info 
+Command       ap_part_info done; 0.43 sec.
+Execute       config_compile -quiet -complex-mul-dsp=0 
+Command     set_part done; 29.06 sec.
+Execute     ap_part_info -data single -name xczu3eg-sbva484-1-i 
+Execute     ap_part_info -name xczu3eg-sbva484-1-i -data resources 
+Execute     config_chip_info -resource {SLICE 8820} {LUT 70560} {FF 141120} {DSP 360} {BRAM 432} {URAM 0} 
+Execute     ap_part_info -name xczu3eg-sbva484-1-i -data info 
+Command     ap_part_info done; 0.41 sec.
+Execute     config_chip_info -speed slow 
+Execute     send_msg_by_id INFO @200-1505@%s%s  vivado 
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+Execute     get_config_interface -m_axi_latency 
+Execute     get_config_interface -m_axi_alignment_byte_size 
+Execute     get_config_interface -m_axi_max_widen_bitwidth 
+Execute     get_config_interface -default_interface 
+Execute     get_config_interface -m_axi_offset 
+Execute     get_config_rtl -register_reset_num 
+Command   open_solution done; 32.68 sec.
+Execute   set_part xczu3eg-sbva484-1-i 
+INFO: [HLS 200-1510] Running: set_part xczu3eg-sbva484-1-i 
+INFO-FLOW: DBG:set_part: XILINX_VIVADO=/tools/Xilinx/Vivado/2020.2
+INFO-FLOW: DBG:set_part: RDI_DATADIR=/tools/Xilinx/Vivado/2020.2/data:/tools/Xilinx/Vitis_HLS/2020.2/data
+Execute     ap_part_info -name xczu3eg-sbva484-1-i -data single -quiet 
+Execute     ap_part_info -name xczu3eg-sbva484-1-i -data info 
+Command     ap_part_info done; 0.23 sec.
+Execute     add_library xilinx/zynquplus/zynquplus:xczu3eg:-sbva484:-1-i 
+Execute       get_default_platform 
+Execute       open_platform DefaultPlatform 
+Execute       ap_part_info -data single -name xczu3eg-sbva484-1-i 
+Execute       ap_part_info -name xczu3eg-sbva484-1-i -data resources 
+Execute       config_chip_info -resource {SLICE 8820} {LUT 70560} {FF 141120} {DSP 360} {BRAM 432} {URAM 0} 
+Execute       ap_part_info -name xczu3eg-sbva484-1-i -data info 
+Command       ap_part_info done; 0.27 sec.
+Execute       config_chip_info -speed slow 
+Execute       ap_part_info -name xczu3eg-sbva484-1-i -data info 
+Command       ap_part_info done; 0.35 sec.
+Execute       config_library_info -library zynquplus_slow 
+Execute       config_library_info -family zynquplus 
+Execute       config_library_info -part xczu3eg:-sbva484:-1-i 
+Execute       import_lib /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/zynquplus/zynquplus 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/xilinx_interface.hlp 
+Execute           source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/maxi.hlp 
+Execute           source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/saxilite.hlp 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/DSP48/dsp48.hlp 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/DSP48/zynquplus_dsp48e2.hlp 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/common/xilinx.gen 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/plb46.gen 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/axi4.gen 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/nativeAXI4.gen 
+Execute           source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/saxilite.gen 
+Execute           source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/maxi.gen 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/scripts/xilinxcoregen.gen 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/interface/XilEDKCoreGen.gen 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/dds_compiler.gen 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/util.gen 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/xfft.gen 
+Command         ap_source done; 0.77 sec.
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/ip/xfir.gen 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/common/technology/xilinx/DSP48/dsp48.gen 
+Command       ap_source done; 1.04 sec.
+Command     add_library done; 1.86 sec.
+Execute     ap_part_info -name xczu3eg-sbva484-1-i -data info 
+Command     ap_part_info done; 0.32 sec.
+Execute     config_compile -quiet -complex-mul-dsp=0 
+Command   set_part done; 2.46 sec.
+Execute   create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+Execute   set_clock_uncertainty 0 
+INFO: [HLS 200-1510] Running: set_clock_uncertainty 0 
+Execute   source ./mlp_nn/solution1/directives.tcl 
+Execute     set_directive_top -name __gthread_active_p __gthread_active_p 
+INFO: [HLS 200-1510] Running: set_directive_top -name __gthread_active_p __gthread_active_p 
+INFO-FLOW: Setting directive 'TOP' name=__gthread_active_p 
+Execute   csynth_design 
+INFO: [HLS 200-1510] Running: csynth_design 
+Execute     get_config_compile -effort 
+Execute     get_config_compile -enable_clang39 
+Execute     get_config_compile -g 
+Execute     get_config_compile -ng 
+Execute     get_config_compile -opt_fp 
+Execute     get_config_compile -skip_cdt 
+Execute     get_config_compile -skip_syncheck 
+Execute     get_config_compile -skip_transform 
+Execute     get_config_compile -keep_printf 
+Execute     elaborate -effort=medium -skip_syncheck=0 -keep_printf=0 -skip_cdt=0 -skip_transform=0 -ng=0 -g=0 -opt_fp=0 -from_csynth_design=1 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0.01 seconds. CPU system time: 0 seconds. Elapsed time: 0.05 seconds; current allocated memory: 173.686 MB.
+INFO: [HLS 200-10] Analyzing design file 'main.cpp' ... 
+INFO-FLOW: Compiling one TU...
+Execute       get_config_compile -pragma_strict_mode 
+INFO-FLOW: Handling main.cpp as C++
+Execute       ap_part_info -name xczu3eg-sbva484-1-i -data info 
+Command       ap_part_info done; 0.3 sec.
+INFO-FLOW: Running: GCC PP 39
+INFO-FLOW: Source preprocessing
+Execute       ap_eval exec -ignorestderr /tools/Xilinx/Vitis_HLS/2020.2/lnx64/tools/clang-3.9-csynth/bin/clang main.cpp -foptimization-record-file=/home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/clang.main.cpp.diag.yml -mllvm -pass-remarks-missed=reflow|pasta|unroll -mllvm -pass-remarks=reflow|pasta|unroll|inline -fno-limit-debug-info -gcc-toolchain /tools/Xilinx/Vitis_HLS/2020.2/tps/lnx64/gcc-6.2.0 -fhls -fno-exceptions -E -fno-math-errno -c -emit-llvm -mllvm -disable-llvm-optzns -Werror=implicit-function-declaration -Werror=implicit-hls-streams -Werror=return-type -Wpragmas -Wunused-parameter -fno-threadsafe-statics -fno-use-cxa-atexit -std=gnu++14 -target fpga64-xilinx-linux-gnu -fno-threadsafe-statics -fno-use-cxa-atexit -I /tools/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot/39 -D__VITIS_HLS__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I /tools/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot -I /tools/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot/ap_sysc -include etc/autopilot_ssdm_op.h -D__DSP48E2__ -o /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/main.pp.0.cpp > /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/clang.main.cpp.out.log 2> /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/clang.main.cpp.err.log 
+Command       ap_eval done; 1.15 sec.
+INFO-FLOW: Done: GCC PP 39 time: 1.2 seconds per iteration
+Execute       set_directive_top __gthread_active_p -name=__gthread_active_p 
+INFO-FLOW: Setting directive 'TOP' name=__gthread_active_p 
+INFO-FLOW: Setting directive 'TOP' name=__gthread_active_p 
+INFO-FLOW: Setting directive 'TOP' name=__gthread_active_p 
+INFO-FLOW: Setting directive 'TOP' name=__gthread_active_p 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/tps/tcl/tcllib1.11.1/yaml/huddle.tcl 
+Execute       source /tools/Xilinx/Vitis_HLS/2020.2/tps/tcl/tcllib1.11.1/yaml/json2huddle.tcl 
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/tps/tcl/tcllib1.11.1/try/try.tcl 
+INFO-FLOW: Setting directive 'TOP' name=__gthread_active_p 
+INFO-FLOW: Setting directive 'TOP' name=__gthread_active_p 
+Execute       list_core -type functional_unit 
+Execute       clang_tidy xilinx-systemc-detector /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/main.pp.0.cpp std=gnu++14 -target fpga  -directive=/home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/.systemc_flag 
+INFO-FLOW: exec /tools/Xilinx/Vitis_HLS/2020.2/lnx64/tools/clang-3.9-csynth/bin/clang-tidy -header-filter=.* --checks=-*,xilinx-systemc-detector -import-directive=/home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/.systemc_flag -fix-errors /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/main.pp.0.cpp -- -std=gnu++14 -target fpga -fhls -ferror-limit=0
+Command       clang_tidy done; 8.84 sec.
+INFO-FLOW: Running: clang-tidy CDT preprocess 39
+Execute       clang_tidy xilinx-directive2pragma /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/main.pp.0.cpp std=gnu++14 -target fpga  -directive=/home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/all.directive.json 
+INFO-FLOW: exec /tools/Xilinx/Vitis_HLS/2020.2/lnx64/tools/clang-3.9-csynth/bin/clang-tidy -header-filter=.* --checks=-*,xilinx-directive2pragma -import-directive=/home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/all.directive.json -fix-errors /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/main.pp.0.cpp -- -std=gnu++14 -target fpga -fhls -ferror-limit=0
+Command       clang_tidy done; 3.17 sec.
+Execute       clang_tidy xilinx-constantarray-param,xilinx-remove-assert /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/main.pp.0.cpp std=gnu++14 -target fpga  
+INFO-FLOW: exec /tools/Xilinx/Vitis_HLS/2020.2/lnx64/tools/clang-3.9-csynth/bin/clang-tidy -header-filter=.* --checks=-*,xilinx-constantarray-param,xilinx-remove-assert -fix-errors /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/main.pp.0.cpp -- -std=gnu++14 -target fpga -fhls -ferror-limit=0
+Command       clang_tidy done; 6.94 sec.
+INFO-FLOW: Done: clang-tidy CDT preprocess 39 time: 10.1 seconds per iteration
+INFO-FLOW: Calling xilinx-label-all-loops ... 
+Execute       clang_tidy -errorcheck xilinx-label-all-loops,xilinx-top-parameters,xilinx-array-stream-check,xilinx-warn-mayneed-no-ctor-attribute /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/main.pp.0.cpp std=gnu++14 -target fpga  
+Execute         ap_eval exec -ignorestderr /tools/Xilinx/Vitis_HLS/2020.2/lnx64/tools/clang-3.9-csynth/bin/clang-tidy -export-fixes=/home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/clang-tidy.main.pp.0.cpp.diag.yml -header-filter=.* --checks=-*,xilinx-label-all-loops,xilinx-top-parameters,xilinx-array-stream-check,xilinx-warn-mayneed-no-ctor-attribute -fix-errors /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/main.pp.0.cpp -- -std=gnu++14 -target fpga -fhls -ferror-limit=0 > /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/clang-tidy.main.pp.0.cpp.out.log 2> /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/clang-tidy.main.pp.0.cpp.err.log 
+Command         ap_eval done; 10.76 sec.
+Execute         source /tools/Xilinx/Vitis_HLS/2020.2/tps/tcl/tcllib1.11.1/yaml/yaml.tcl 
+Execute           source /tools/Xilinx/Vitis_HLS/2020.2/tps/tcl/tcllib1.11.1/cmdline/cmdline.tcl 
+Command       clang_tidy done; 11.13 sec.
+Execute       get_config_dataflow -strict_mode 
+Execute       ap_eval exec -ignorestderr /tools/Xilinx/Vitis_HLS/2020.2/lnx64/tools/clang-3.9-csynth/bin/xilinx-dataflow-lawyer -export-fixes=/home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/xilinx-dataflow-lawyer.main.pp.0.cpp.diag.yml /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/main.pp.0.cpp -- -std=gnu++14 -target fpga -fhls -ferror-limit=0 -fstrict-dataflow > /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/xilinx-dataflow-lawyer.main.pp.0.cpp.out.log 2> /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/xilinx-dataflow-lawyer.main.pp.0.cpp.err.log 
+Command       ap_eval done; 6.03 sec.
+Execute       ap_part_info -name xczu3eg-sbva484-1-i -data info 
+Command       ap_part_info done; 0.28 sec.
+INFO-FLOW: compiling source code to llvm bc
+Execute       ap_eval exec -ignorestderr /tools/Xilinx/Vitis_HLS/2020.2/lnx64/tools/clang-3.9-csynth/bin/clang -foptimization-record-file=/home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/clang.main.pp.0.cpp.diag.yml -mllvm -pass-remarks-missed=reflow|pasta|unroll -mllvm -pass-remarks=reflow|pasta|unroll|inline -fno-limit-debug-info -fhls -flto -fno-exceptions -Wno-error=c++11-narrowing /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/main.pp.0.cpp -fno-math-errno -c -emit-llvm -mllvm -disable-llvm-optzns -Werror=implicit-function-declaration -Werror=implicit-hls-streams -Werror=return-type -Wpragmas -Wunused-parameter -fno-threadsafe-statics -fno-use-cxa-atexit -std=gnu++14 -target fpga64-xilinx-linux-gnu -D__VITIS_HLS__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I /tools/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot -I /tools/Xilinx/Vitis_HLS/2020.2/common/technology/autopilot/ap_sysc -include etc/autopilot_ssdm_op.h -D__DSP48E2__ -g -o /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/main.bc > /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/clang.main.pp.0.cpp.out.log 2> /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/clang.main.pp.0.cpp.err.log 
+Command       ap_eval done; 5.89 sec.
+WARNING: [HLS 207-5524] Ignore interface attribute or pragma which is not used in top function: main.cpp:9:9
+WARNING: [HLS 207-5524] Ignore interface attribute or pragma which is not used in top function: main.cpp:10:9
+WARNING: [HLS 207-5524] Ignore interface attribute or pragma which is not used in top function: main.cpp:10:9
+WARNING: [HLS 207-5524] Ignore interface attribute or pragma which is not used in top function: main.cpp:9:9
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 6.86 seconds. CPU system time: 0.67 seconds. Elapsed time: 44.01 seconds; current allocated memory: 174.915 MB.
+INFO-FLOW: Linking Debug ...
+INFO-FLOW: Linking dut bc code.
+Execute       run_link_or_opt -out /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/a.g.ld.0.bc -args  "/home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/main.g.bc"  
+Execute         ap_eval exec -ignorestderr /tools/Xilinx/Vitis_HLS/2020.2/lnx64/tools/clang-3.9-csynth/bin/llvm-link /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/main.g.bc -o /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/a.g.ld.0.bc > /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/llvm-link.a.g.ld.0.bc.out.log 2> /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/llvm-link.a.g.ld.0.bc.err.log 
+Command         ap_eval done; 0.19 sec.
+INFO-FLOW: 
+Command       run_link_or_opt done; 0.19 sec.
+Execute       run_link_or_opt -opt -out /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/a.g.ld.1.lower.bc -args /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/a.g.ld.0.bc -reflow-lower-math-intrinsics 
+Execute         ap_eval exec -ignorestderr /tools/Xilinx/Vitis_HLS/2020.2/lnx64/tools/clang-3.9-csynth/bin/opt -pass-remarks-missed=reflow|pasta|unroll -pass-remarks=reflow|pasta|unroll|inline -pass-remarks-output=/home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/opt.a.g.ld.1.lower.bc.diag.yml /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/a.g.ld.0.bc -reflow-lower-math-intrinsics -o /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/a.g.ld.1.lower.bc > /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/opt.a.g.ld.1.lower.bc.out.log 2> /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/opt.a.g.ld.1.lower.bc.err.log 
+Command         ap_eval done; 0.57 sec.
+INFO-FLOW: 
+Command       run_link_or_opt done; 0.57 sec.
+INFO-FLOW: Linking math bc lib
+Execute       run_link_or_opt -out /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/a.g.ld.2.m1.bc -args /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/a.g.ld.1.lower.bc -only-needed /tools/Xilinx/Vitis_HLS/2020.2/lnx64/lib/libhlsm_39.bc /tools/Xilinx/Vitis_HLS/2020.2/lnx64/lib/libhlsmc++_39.bc 
+Execute         ap_eval exec -ignorestderr /tools/Xilinx/Vitis_HLS/2020.2/lnx64/tools/clang-3.9-csynth/bin/llvm-link /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/a.g.ld.1.lower.bc -only-needed /tools/Xilinx/Vitis_HLS/2020.2/lnx64/lib/libhlsm_39.bc /tools/Xilinx/Vitis_HLS/2020.2/lnx64/lib/libhlsmc++_39.bc -o /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/a.g.ld.2.m1.bc > /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/llvm-link.a.g.ld.2.m1.bc.out.log 2> /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/llvm-link.a.g.ld.2.m1.bc.err.log 
+Command         ap_eval done; 33.74 sec.
+INFO-FLOW: 
+Command       run_link_or_opt done; 33.74 sec.
+Execute       run_link_or_opt -opt -out /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/a.g.ld.3.fpc.bc -args /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/a.g.ld.2.m1.bc -reflow-globaldce -hls-top-function-name=__gthread_active_p -reflow-float-conversion 
+Execute         ap_eval exec -ignorestderr /tools/Xilinx/Vitis_HLS/2020.2/lnx64/tools/clang-3.9-csynth/bin/opt -pass-remarks-missed=reflow|pasta|unroll -pass-remarks=reflow|pasta|unroll|inline -pass-remarks-output=/home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/opt.a.g.ld.3.fpc.bc.diag.yml /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/a.g.ld.2.m1.bc -reflow-globaldce -hls-top-function-name=__gthread_active_p -reflow-float-conversion -o /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/a.g.ld.3.fpc.bc > /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/opt.a.g.ld.3.fpc.bc.out.log 2> /home/jiahui/cg4002/week7/capstoneprojFPGA/mlp_nn/solution1/.autopilot/db/opt.a.g.ld.3.fpc.bc.err.log 
+Command         ap_eval done; error code: 1; 10.84 sec.
+ERROR: [HLS 214-157] Top function not found: there is no function named '__gthread_active_p'
+INFO-FLOW: {error: Top function not found: there is no function named '__gthread_active_p'}
+Command       run_link_or_opt done; error code: 2; 10.91 sec.
+Command     elaborate done; error code: 2; 89.47 sec.
+Command   csynth_design done; error code: 2; 89.49 sec.
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 13.45 seconds. CPU system time: 1.17 seconds. Elapsed time: 89.49 seconds; current allocated memory: 174.958 MB.
+Command ap_source done; error code: 1; 124.92 sec.
+Execute cleanup_all 

@@ -28,7 +28,7 @@ public:
 };
 
 template <class X>
-X relu_func(T a) {
+X relu_func(X a) {
 	if (a > 0) {
 		return a;
 	} else {
@@ -37,6 +37,6 @@ X relu_func(T a) {
 };
 
 template <class X>
-X sigmoid_func(T a) {
+X sigmoid_func(X a) {
 	return (1 - a) * a;
 };

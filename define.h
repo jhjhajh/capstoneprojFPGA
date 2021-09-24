@@ -14,7 +14,7 @@
 #define LAYER5_I 12
 #define LAYER5_O 6
 
-        float input[LAYER0_I] = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
+    float input[LAYER0_I] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11};
 	float weights_0[LAYER0_O][LAYER0_I] = {{1}};
 	float weights_1[LAYER1_O][LAYER1_I] = {{1}};
 	float weights_2[LAYER2_O][LAYER2_I] = {{1}};
@@ -28,9 +28,9 @@
 	float bias_4[LAYER4_I] = {0};
 	float bias_5[LAYER5_I] = {0};
 
-struct AXI_L {
+struct AXIS_wLAST {
 	float data;
-	bool last = false;
+	bool islast = false;
 };
 
 
