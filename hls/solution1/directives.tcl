@@ -3,4 +3,4 @@
 ## Please DO NOT edit it.
 ## Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
 ############################################################
-set_directive_top -name __gthread_active_p "__gthread_active_p"
+set_directive_top -name mlp_nn "mlp_nn"
