@@ -39,3 +39,4 @@ X relu_func(T a) {
 template <class X>
 X sigmoid_func(T a) {
 	return (1 - a) * a;
+};

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Messages>
+	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_966" tag="RUNTIME" content="Finished File checks and directory preparation: CPU user time: 0.01 seconds. CPU system time: 0.01 seconds. Elapsed time: 0.02 seconds; current allocated memory: 157.602 MB." resolution=""/>
+	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1312" tag="" content="Analyzing design file &apos;main.cpp&apos; ..." resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;weights_0&apos;: main.cpp:44" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;weights_1&apos;: main.cpp:50" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;weights_2&apos;: main.cpp:56" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;weights_3&apos;: main.cpp:62" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;weights_4&apos;: main.cpp:67" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;weights_4&apos;: main.cpp:71" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;bias_0&apos;: main.cpp:75" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;bias_1&apos;: main.cpp:79" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;bias_2&apos;: main.cpp:83" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;bias_3&apos;: main.cpp:87" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;bias_4&apos;: main.cpp:91" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;bias_5&apos;: main.cpp:95" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;input&apos;: main.cpp:106" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;input&apos;: main.cpp:113" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;weights_0&apos;: main.cpp:113" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;bias_0&apos;: main.cpp:114" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;weights_1&apos;: main.cpp:118" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;bias_1&apos;: main.cpp:119" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;weights_2&apos;: main.cpp:123" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;bias_2&apos;: main.cpp:124" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;weights_3&apos;: main.cpp:128" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;bias_3&apos;: main.cpp:129" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;weights_4&apos;: main.cpp:133" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;bias_4&apos;: main.cpp:134" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;weights_5&apos;: main.cpp:138" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-124]" key="HLS 214-124" tag="" content="use of undeclared identifier &apos;bias_5&apos;: main.cpp:139" resolution=""/>
+	<Message severity="ERROR" prefix="[HLS 214-125]" key="HLS 214-125" tag="" content="no member named &apos;isLast&apos; in &apos;AXI_L&apos;: main.cpp:144" resolution=""/>
+	<Message severity="INFO" prefix="[HLS 200-111]" key="HLS_111_966" tag="RUNTIME" content="Finished Command csynth_design CPU user time: 9.33 seconds. CPU system time: 1.23 seconds. Elapsed time: 13.48 seconds; current allocated memory: 159.142 MB." resolution=""/>
+</Messages>
