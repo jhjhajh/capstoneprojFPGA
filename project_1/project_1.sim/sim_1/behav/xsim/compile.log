@@ -1,0 +1,521 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_zynq_ultra_ps_e_0_0/sim/design_1_zynq_ultra_ps_e_0_0_vip_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_zynq_ultra_ps_e_0_0
+INFO: [VRFC 10-2458] undeclared symbol pl_clk1, assumed default net type wire [D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_zynq_ultra_ps_e_0_0/sim/design_1_zynq_ultra_ps_e_0_0_vip_wrapper.v:248]
+INFO: [VRFC 10-2458] undeclared symbol pl_clk2, assumed default net type wire [D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_zynq_ultra_ps_e_0_0/sim/design_1_zynq_ultra_ps_e_0_0_vip_wrapper.v:250]
+INFO: [VRFC 10-2458] undeclared symbol pl_clk3, assumed default net type wire [D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_zynq_ultra_ps_e_0_0/sim/design_1_zynq_ultra_ps_e_0_0_vip_wrapper.v:252]
+INFO: [VRFC 10-2458] undeclared symbol saxigp6_racount, assumed default net type wire [D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_zynq_ultra_ps_e_0_0/sim/design_1_zynq_ultra_ps_e_0_0_vip_wrapper.v:690]
+INFO: [VRFC 10-2458] undeclared symbol saxigp6_wacount, assumed default net type wire [D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_zynq_ultra_ps_e_0_0/sim/design_1_zynq_ultra_ps_e_0_0_vip_wrapper.v:691]
+INFO: [VRFC 10-2458] undeclared symbol saxigp6_rcount, assumed default net type wire [D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_zynq_ultra_ps_e_0_0/sim/design_1_zynq_ultra_ps_e_0_0_vip_wrapper.v:692]
+INFO: [VRFC 10-2458] undeclared symbol saxigp6_wcount, assumed default net type wire [D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_zynq_ultra_ps_e_0_0/sim/design_1_zynq_ultra_ps_e_0_0_vip_wrapper.v:693]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_bias_5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_bias_5_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_bias_5
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_buffer_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_buffer_1_ram
+INFO: [VRFC 10-311] analyzing module mlp_nn_buffer_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_buffer_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_buffer_2_ram
+INFO: [VRFC 10-311] analyzing module mlp_nn_buffer_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_buffer_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_buffer_3_ram
+INFO: [VRFC 10-311] analyzing module mlp_nn_buffer_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_buffer_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_buffer_4_ram
+INFO: [VRFC 10-311] analyzing module mlp_nn_buffer_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_buffer_5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_buffer_5_ram
+INFO: [VRFC 10-311] analyzing module mlp_nn_buffer_5
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_fadd_32ns_32ns_32_4_full_dsp_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_fadd_32ns_32ns_32_4_full_dsp_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_fcmp_32ns_32ns_1_2_no_dsp_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_fcmp_32ns_32ns_1_2_no_dsp_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_fmul_32ns_32ns_32_3_max_dsp_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_fmul_32ns_32ns_32_3_max_dsp_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_input.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_input_ram
+INFO: [VRFC 10-311] analyzing module mlp_nn_input
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_bias_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_bias_1_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_bias_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_bias_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_bias_2_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_bias_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_bias_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_bias_3_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_bias_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_bias_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_bias_4_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_bias_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_1_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_1_0_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_1_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_1_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_1_1_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_1_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_1_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_1_2_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_1_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_1_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_1_3_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_1_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_1_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_1_4_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_1_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_1_5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_1_5_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_1_5
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_0_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_1_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_2_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_3_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_4_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_5_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_5
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_6_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_6
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_7_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_7
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_8_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_8
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_9.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_9_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_9
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_10.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_10_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_10
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_11.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_11_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_11
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_12.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_12_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_12
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_13.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_13_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_13
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_14.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_14_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_14
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_15.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_15_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_15
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_16_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_16
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_17.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_17_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_17
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_18.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_18_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_18
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_19.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_19_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_19
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_20.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_20_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_20
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_21.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_21_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_21
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_22.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_22_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_22
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_23.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_23_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_23
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_24.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_24_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_24
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_25.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_25_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_25
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_26.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_26_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_26
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_27.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_27_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_27
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_28.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_28_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_28
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_29.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_29_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_29
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_30.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_30_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_30
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_31.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_31_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_31
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_32_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_33.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_33_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_33
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_34.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_34_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_34
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_35.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_35_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_35
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_36.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_36_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_36
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_37.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_37_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_37
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_38.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_38_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_38
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_39.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_39_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_39
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_40.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_40_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_40
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_41.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_41_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_41
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_42.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_42_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_42
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_43.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_43_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_43
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_44.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_44_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_44
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_45.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_45_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_45
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_46.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_46_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_46
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_47.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_47_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_2_47
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_0_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_1_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_2_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_3_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_4_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_5_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_5
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_6_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_6
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_7_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_7
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_8_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_8
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_9.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_9_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_9
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_10.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_10_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_10
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_11.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_11_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_11
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_12.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_12_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_12
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_13.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_13_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_13
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_14.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_14_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_14
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_15.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_15_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_15
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_16_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_16
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_17.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_17_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_17
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_18.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_18_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_18
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_19.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_19_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_19
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_20.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_20_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_20
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_21.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_21_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_21
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_22.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_22_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_22
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_23.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_23_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_23
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_24.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_24_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_24
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_25.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_25_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_25
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_26.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_26_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_26
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_27.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_27_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_27
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_28.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_28_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_28
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_29.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_29_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_29
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_30.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_30_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_30
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_31.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_31_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_31
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_32_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_33.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_33_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_33
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_34.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_34_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_34
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_35.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_35_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_3_35
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_0_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_1_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_2_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_3_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_4_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_5_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_5
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_6_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_6
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_7_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_7
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_8_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_8
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_9.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_9_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_9
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_10.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_10_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_10
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_11.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_11_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_11
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_12.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_12_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_12
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_13.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_13_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_13
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_14.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_14_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_14
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_15.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_15_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_15
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_16_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_16
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_17.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_17_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_17
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_18.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_18_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_18
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_19.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_19_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_19
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_20.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_20_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_20
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_21.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_21_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_21
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_22.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_22_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_22
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_23.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_23_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_4_23
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_0_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_1_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_2_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_3_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_4_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_5_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_5
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_6_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_6
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_7_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_7
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_8_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_8
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_9.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_9_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_9
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_10.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_10_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_10
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_11.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_11_rom
+INFO: [VRFC 10-311] analyzing module mlp_nn_mlp_nn_stream_AXIS_wLAST_0_stream_AXIS_wLAST_0_weights_5_11
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn_regslice_both.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_regslice_both
+INFO: [VRFC 10-311] analyzing module mlp_nn_regslice_both_w1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/verilog/mlp_nn.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/ip/mlp_nn_ap_fadd_2_full_dsp_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_ap_fadd_2_full_dsp_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/ip/mlp_nn_ap_fcmp_0_no_dsp_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_ap_fcmp_0_no_dsp_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.gen/sources_1/bd/design_1/ipshared/d760/hdl/ip/mlp_nn_ap_fmul_1_max_dsp_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mlp_nn_ap_fmul_1_max_dsp_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_mlp_nn_0_0/sim/design_1_mlp_nn_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_mlp_nn_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/sim/bd_48ac.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac
+INFO: [VRFC 10-311] analyzing module clk_map_imp_1NMB928
+INFO: [VRFC 10-311] analyzing module m00_exit_pipeline_imp_CVVFJV
+INFO: [VRFC 10-311] analyzing module m00_nodes_imp_Z1B1P3
+INFO: [VRFC 10-311] analyzing module s00_entry_pipeline_imp_1C3JDRS
+INFO: [VRFC 10-311] analyzing module s00_nodes_imp_1FAO4F6
+INFO: [VRFC 10-311] analyzing module s01_entry_pipeline_imp_F11SX8
+INFO: [VRFC 10-311] analyzing module s01_nodes_imp_AIXRF8
+INFO: [VRFC 10-311] analyzing module switchboards_imp_1MKJLH2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_0/sim/bd_48ac_one_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_one_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_2/sim/bd_48ac_arsw_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_arsw_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_3/sim/bd_48ac_rsw_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_rsw_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_4/sim/bd_48ac_awsw_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_awsw_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_5/sim/bd_48ac_wsw_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_wsw_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_6/sim/bd_48ac_bsw_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_bsw_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_7/sim/bd_48ac_s00mmu_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_s00mmu_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_8/sim/bd_48ac_s00tr_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_s00tr_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_9/sim/bd_48ac_s00sic_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_s00sic_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_10/sim/bd_48ac_s00a2s_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_s00a2s_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_11/sim/bd_48ac_sarn_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_sarn_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_12/sim/bd_48ac_srn_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_srn_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_13/sim/bd_48ac_s01mmu_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_s01mmu_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_14/sim/bd_48ac_s01tr_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_s01tr_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_15/sim/bd_48ac_s01sic_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_s01sic_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_16/sim/bd_48ac_s01a2s_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_s01a2s_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_17/sim/bd_48ac_sawn_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_sawn_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_18/sim/bd_48ac_swn_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_swn_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_19/sim/bd_48ac_sbn_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_sbn_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_20/sim/bd_48ac_m00s2a_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_m00s2a_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_21/sim/bd_48ac_m00arn_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_m00arn_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_22/sim/bd_48ac_m00rn_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_m00rn_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_23/sim/bd_48ac_m00awn_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_m00awn_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_24/sim/bd_48ac_m00wn_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_m00wn_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_25/sim/bd_48ac_m00bn_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_m00bn_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_26/sim/bd_48ac_m00e_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bd_48ac_m00e_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/sim/design_1_smartconnect_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_smartconnect_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/sim/design_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1
+INFO: [VRFC 10-311] analyzing module design_1_axi_interconnect_0_0
+INFO: [VRFC 10-311] analyzing module s00_couplers_imp_O7FAN0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_auto_ds_0/sim/design_1_auto_ds_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_auto_ds_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.srcs/sources_1/new/design_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CG4002/project_1/project_1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_proc_sys_reset_0_0/sim/design_1_proc_sys_reset_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'design_1_proc_sys_reset_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_1/sim/bd_48ac_psr_aclk_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bd_48ac_psr_aclk_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/CG4002/project_1/project_1.ip_user_files/bd/design_1/ip/design_1_axi_dma_0_1/sim/design_1_axi_dma_0_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'design_1_axi_dma_0_1'

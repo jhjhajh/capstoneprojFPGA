@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Sep 28 17:28:33 2021
+# Process ID: 14128
+# Current directory: D:/CG4002/project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8288 D:\CG4002\project_1\project_1.xpr
+# Log file: D:/CG4002/project_1/vivado.log
+# Journal file: D:/CG4002/project_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/CG4002/project_1/project_1.xpr
+update_compile_order -fileset sources_1
+generate_target Simulation [get_files D:/CG4002/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd]
+export_ip_user_files -of_objects [get_files D:/CG4002/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd] -no_script -sync -force -quiet
+export_simulation -of_objects [get_files D:/CG4002/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd] -directory D:/CG4002/project_1/project_1.ip_user_files/sim_scripts -ip_user_files_dir D:/CG4002/project_1/project_1.ip_user_files -ipstatic_source_dir D:/CG4002/project_1/project_1.ip_user_files/ipstatic -lib_map_path [list {modelsim=D:/CG4002/project_1/project_1.cache/compile_simlib/modelsim} {questa=D:/CG4002/project_1/project_1.cache/compile_simlib/questa} {riviera=D:/CG4002/project_1/project_1.cache/compile_simlib/riviera} {activehdl=D:/CG4002/project_1/project_1.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+launch_simulation
